@@ -4,10 +4,17 @@ This repo contains both the [client side](https://github.com/sivakamit/StreamHiv
 
 #features
 -Login/Signup
+
 -Upload video
+
 -Search video by channel name
+
 -Search video by title, description
+
 -Like/Dislike video
+
 -Subscribe/Unsubscribe from channels
+
 -Add comment
+
 -Liked videos
