@@ -2,7 +2,8 @@
 Developed a React-based video streaming platform using MERN (MongoDB, Express, React, Node)
 This repo contains both the [client side](https://github.com/sivakamit/StreamHive/tree/main/client) and [server side](https://github.com/sivakamit/StreamHive/tree/main/server) of the application
 
-#features
+# Features
+
 -Login/Signup
 
 -Upload video
