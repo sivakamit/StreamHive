@@ -4,8 +4,7 @@ This repo contains both the [client side](https://github.com/sivakamit/StreamHiv
 
 # Features
 
--Login/Signup
-
+->Login/Signup
 -Upload video
 
 -Search video by channel name
