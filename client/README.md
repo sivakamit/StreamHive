@@ -13,4 +13,4 @@ This is the frontend repository, build using React and Redux
 ->Video player - Videojs
 
 # Implementation
-Run npm i and npm start in the terminal to see the application running in port 3000 (http://localhost:3000)
+Run `npm i` and `npm start` in the terminal to see the application running in port 3000 (http://localhost:3000)
